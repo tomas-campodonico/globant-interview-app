@@ -1,0 +1,21 @@
+[{
+    "id": "inclusiveLeader",
+    "name": "Inclusive Leader",
+    "help": "Inclusive Leader help tooltip"
+}, {
+    "id": "clearThinker",
+    "name": "Clear Thinker",
+    "help": "Clear Thinker help tooltip"
+}, {
+    "id": "fastLearner",
+    "name": "Fast Learner",
+    "help": "Fast Learner help tooltip"
+}, {
+    "id": "focused",
+    "name": "Focused",
+    "help": "Focused help tooltip"
+}, {
+    "id": "committed",
+    "name": "Committed",
+    "help": "Committed help tooltip"
+}]

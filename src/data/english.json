@@ -1,0 +1,22 @@
+[{
+    "label": "0 - Can´t speak",
+    "value": 0
+}, {
+    "label": "1 - Basic",
+    "value": 1
+}, {
+    "label": "2 - Pre-intermediate",
+    "value": 2
+}, {
+    "label": "3 - Intermediate",
+    "value": 3
+}, {
+    "label": "4 - Upper-intermediate",
+    "value": 4
+}, {
+    "label": "5 - Advanced",
+    "value": 5
+}, {
+    "label": "6 - Native",
+    "value": 6
+}]

@@ -1,0 +1,77 @@
+[
+    {
+        "key": "user",
+        "name": "User",
+        "questions": []
+    },
+    {
+        "key": "personality-traits",
+        "name": "Personality Traits",
+        "questions": []
+    },
+    {
+        "key": "design-patterns",
+        "name": "Design Patterns",
+        "questions": [{
+            "question": "What is your name?",
+            "help": "The candidate should tell you their name"
+        }, {
+            "question": "What is your name?",
+            "help": "The candidate should tell you their name"
+        }, {
+            "question": "What is your name?",
+            "help": "The candidate should tell you their name"
+        }, {
+            "question": "What is your name?",
+            "help": "The candidate should tell you their name"
+        }, {
+            "question": "What is your name?",
+            "help": "The candidate should tell you their name"
+        }]
+    },
+    {
+        "key": "testing",
+        "name": "Testing",
+        "questions": []
+    },
+    {
+        "key": "git",
+        "name": "Git",
+        "questions": []
+    },
+    {
+        "key": "html",
+        "name": "HTML",
+        "questions": []
+    },
+    {
+        "key": "css",
+        "name": "CSS",
+        "questions": []
+    },
+    {
+        "key": "js",
+        "name": "JavaScript",
+        "questions": []
+    },
+    {
+        "key": "react",
+        "name": "React",
+        "questions": []
+    },
+    {
+        "key": "angular",
+        "name": "Angular",
+        "questions": []
+    },
+    {
+        "key": "npm",
+        "name": "NPM",
+        "questions": []
+    },
+    {
+        "key": "bundling",
+        "name": "Bundling",
+        "questions": []
+    }
+]
